@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-embed-imgur",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "nbbpm": {
     "compatibility": "^1.x"
   },

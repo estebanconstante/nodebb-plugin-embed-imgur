@@ -5,7 +5,6 @@ Original author: a5mith
 
 ## Changes
 
-0.0.2
 - Fixing compatibility for nodeBB 1.5.1 using Fusselwurm's code.
 
 0.0.1
