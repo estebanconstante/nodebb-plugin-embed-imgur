@@ -29,7 +29,5 @@
     "url": "https://github.com/estebanconstante/nodebb-plugin-embed-imgur/issues"
   },
   "readme": "",
-  "readmeFilename": "README.md",
-  "_id": "nodebb-plugin-embed-imgur@0.0.2",
-  "_from": "nodebb-plugin-embed-imgur@~0.0.2"
+  "readmeFilename": "README.md"
 }
